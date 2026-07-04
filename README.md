@@ -1,3 +1,3 @@
 # My repositories
 
-[https://github.com/philrwebb/sveltekit-demo](Sveltekit Demo)
+[Sveltekit Demo](https://github.com/philrwebb/sveltekit-demo)
